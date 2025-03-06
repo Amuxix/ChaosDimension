@@ -1,0 +1,15 @@
+{
+  "name": "ChaosDimension",
+  "version": "0.0.1",
+  "title": "Chaos Dimension",
+  "author": ["Amuxix"],
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.39",
+    "space-age >= 2.0.39",
+    "quality >= 2.0.39",
+    "elevated-rails >= 2.0.39",
+    "finely-crafted-graphics >= 1.1.0"
+  ],
+  "description": "The colony ship desynchronized from the chaos dimension, only a small part of the ship made it back to the material dimension, luckily we are in in orbit of a planet that seems to have some useful asteroids, can you make it back to safety?"
+}
